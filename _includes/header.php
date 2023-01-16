@@ -7,7 +7,7 @@
                     <div class="rd-navbar-panel">
                         <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                         <div class="rd-navbar-brand">
-                            <a class="brand" href="index.html"><img class="brand-logo-dark" src="images/logo-maremotel1.png" alt=""/><img class="brand-logo-light" src="images/logo-maremotel1.png" alt=""/></a>
+                            <a class="brand" href="index.php"><img class="brand-logo-dark" src="images/logo-maremotel1.png" alt="Mades motel"/><img class="brand-logo-light" src="images/logo-maremotel1.png" alt="Mades motel"/></a>
                         </div>
                     </div>
                     <div class="rd-navbar-aside-right rd-navbar-collapse">
@@ -16,7 +16,7 @@
                                 <div class="unit unit-spacing-xs">
                                     <div class="unit-left"><span class="icon fa fa-clock-o"></span></div>
                                     <div class="unit-body">
-                                        <p>09:00<span>am</span> — 05:00<span>pm</span></p>
+                                        <a class="link-phone">09:00 am — 05:00 pm</a>
                                     </div>
                                 </div>
                             </li>

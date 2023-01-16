@@ -30,7 +30,7 @@
         $from =$_POST["email"];
         $phone =$_POST["phone"];
         $message=$_POST["message"];
-        $receiver="soadenelaire@gmail.com";
+        $receiver="maresgerencia@gmail.com";
         $subject="Detalles del formulario de contacto";
 
         $message = "

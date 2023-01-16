@@ -3528,9 +3528,9 @@ button {
 }
 
 .button-default-outline, .button-default-outline:focus {
-	color: #151515;
+	color: #fff;
 	background: transparent;
-	border-color: #151515;
+	border-color: #fff;
 }
 
 .button-default-outline:hover, .button-default-outline:active {
@@ -13422,7 +13422,7 @@ html.tablet .ui-to-top {
 
 .rd-navbar {
 	display: none;
-	background: #ffffff;
+	background: #000000;
 }
 
 .rd-navbar-toggle {
@@ -13460,7 +13460,7 @@ html.tablet .ui-to-top {
 .rd-navbar-toggle span:after, .rd-navbar-toggle span:before, .rd-navbar-toggle span {
 	width: 24px;
 	height: 3px;
-	background-color: #151515;
+	background-color: #fff;
 	backface-visibility: hidden;
 	border-radius: 0;
 }
@@ -13514,7 +13514,7 @@ html.tablet .ui-to-top {
 	height: 6px;
 	line-height: 6px;
 	text-align: center;
-	background: #151515;
+	background: #fff;
 	left: 50%;
 	margin-left: -3px;
 	border-radius: 50%;
@@ -14885,7 +14885,7 @@ html.tablet .ui-to-top {
 .rd-navbar-fixed .rd-navbar-panel {
 	color: #151515;
 	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
-	background: #ffffff;
+	background: #000;
 }
 
 .rd-navbar-fixed .rd-navbar-nav-wrap {
@@ -15178,7 +15178,7 @@ html.rd-navbar-fixed-linked .page {
 	font-family: "Teko", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 	text-transform: uppercase;
 	max-width: 100%;
-	color: #151515;
+	color: #fff;
 	flex: 0 0 auto;
 }
 
@@ -15209,7 +15209,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .rd-navbar-corporate-contacts a, .rd-navbar-corporate-contacts a:focus, .rd-navbar-corporate-contacts a:active {
-	color: #151515;
+	color: #fff;
 }
 
 .rd-navbar-corporate-contacts a:hover {
@@ -16427,7 +16427,7 @@ html.rd-navbar-fixed-linked .page {
 		line-height: 1.2;
 	}
 	.swiper-slider-tara .swiper-subtitle {
-		letter-spacing: .15em;
+		/* letter-spacing: .15em; */
 	}
 	.swiper-slider-tara * + .swiper-title {
 		margin-top: 22px;

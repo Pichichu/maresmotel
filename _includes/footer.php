@@ -2,7 +2,7 @@
     <div class="footer-corporate-inset">
         <div class="container">
             <div class="row row-40 justify-content-lg-between">
-                <div class="col-sm-6 col-md-12 col-lg-3 col-xl-4">
+                <div class="col-sm-6 col-md-12 col-lg-3 col-xl-6">
                     <div class="oh-desktop">
                         <div class="wow slideInRight" data-wow-delay="0s">
                             <h5 class="text-spacing-100">Nuestro contacto</h5>
@@ -10,7 +10,7 @@
                                 <li>
                                     <div class="unit">
                                         <div class="unit-left"><span class="icon fa fa-whatsapp"></span></div>
-                                        <div class="unit-body"><a class="link-phone" target="_blank" href="https://wa.me/595971725725">+595 971 725 725</a></div>
+                                        <div class="unit-body"><a class="link-phone" target="_blank" href="https://wa.me/595971725724">+595 971 725 724</a></div>
                                     </div>
                                 </li>
                                 <li>
@@ -28,33 +28,14 @@
                                 <li>
                                     <div class="unit">
                                         <div class="unit-left"><span class="icon fa fa-location-arrow"></span></div>
-                                        <div class="unit-body"><a class="link-location" target="_blank" href="https://goo.gl/maps/4R9rwDMeKEa4FaW48">Calle Guarambará casi Avda. Acceso Sur, Ciudad de Ypané, Dpto. Central, Paraguay.</a></div>
+                                        <div class="unit-body"><a class="link-location" target="_blank" href="https://goo.gl/maps/4R9rwDMeKEa4FaW48">Calle Guarambaré casi Avda. Acceso Sur, Ciudad de Ypané, Dpto. Central, Paraguay.</a></div>
                                     </div>
                                 </li>
                             </ul>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-5 col-lg-3 col-xl-4">
-                    <div class="oh-desktop">
-                        <div class="wow slideInDown" data-wow-delay="0s">
-                            <h5 class="text-spacing-100">Nuestra galería</h5>
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <a class="thumbnail-creative-figure" href="#galeria" data-lightgallery="item">
-                                        <img src="images/home-gallery-1-370x303.jpg" alt=""/>
-                                    </a>
-                                </div>
-                                <div class="col-lg-6">
-                                    <a class="thumbnail-creative-figure" href="#galeria" data-lightgallery="item">
-                                        <img src="images/home-gallery-1-370x303.jpg" alt=""/>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-11 col-md-7 col-lg-5 col-xl-4">
+                <div class="col-sm-11 col-md-7 col-lg-5 col-xl-6">
                     <div class="oh-desktop">
                         <div class="wow slideInLeft" data-wow-delay="0s">
                             <h5 class="text-spacing-100">Navegación</h5>
@@ -64,7 +45,7 @@
                                 <li><a href="#galeria">Galería</a></li>
                                 <li><a href="#contacto">Contacto</a></li>
                             </ul>
-                            <div class="group-md group-middle justify-content-sm-start"><a class="button button-lg button-primary button-ujarak" target="_blank" href="https://wa.me/595971725725"><i class="fa fa-whatsapp"></i> Whatsapp</a></div>
+                            <div class="group-md group-middle justify-content-sm-start"><a class="button button-lg button-primary button-ujarak" target="_blank" href="https://wa.me/595971725724"><i class="fa fa-whatsapp"></i> Whatsapp</a></div>
                         </div>
                     </div>
                 </div>
@@ -74,7 +55,7 @@
     <div class="footer-corporate-bottom-panel">
         <div class="container">
             <div class="row row-10 align-items-md-center">
-                <div class="col-sm-6 col-md-4 text-sm-right text-md-center">
+                <div class="col-sm-4 col-md-4 text-sm-right text-md-center">
                     <div>
                         <ul class="list-inline list-inline-sm footer-social-list-2">
                             <li><a class="icon fa fa-facebook" target="_blank" href="https://www.facebook.com/MaresMotel/"></a></li>
@@ -84,11 +65,8 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 order-sm-first">
-                    <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span> <span>MaresMotel</span>. Derechos reservados</p>
-                </div>
-                <div class="col-sm-6 col-md-4 text-md-right">
-                    <p class="rights">Hosting: <a href="https://www.setik.com.py/web/?maresmotel">Setik technology S.A.</a></p>
+                <div class="col-sm-8 col-md-8 order-sm-first">
+                    <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span> <span>MaresMotel</span>. Hosting: <a href="https://www.maxdominios.com/?maresmotel">Maxdominios</a> - Desarrollado por: <a href="https://www.setik.com.py/web/?maresmotel">Setik Technology S.A.</a></p>
                 </div>
             </div>
         </div>

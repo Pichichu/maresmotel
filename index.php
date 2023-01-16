@@ -2,11 +2,14 @@
 <html class="wide wow-animation" lang="es">
   <head>
 
-    <title>Cute Hotel</title>
+    <title>Bienvenido a Mares Motel</title>
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
+    <meta name="description" content="MARES Motel nace a principios del año 2013, nos abocamos en
+                        darles el mejor servicio con el lujo y confort que nos caracteriza.">
+    <meta name="keywords" content="Mares motel, mares, Motel, MOTEL, motel, Mares, MARES, hotel, pasión, sexo, habitación, motel cde, mades cde, cde, ciudad del este mades motel, habitaciones ciudad del este, habitación cde, hot motel, hot mares, moteles en ciudad del este, motel cde, cde motel,">
     <?php require_once '_includes/links.php' ?>
 
   </head>
@@ -28,7 +31,7 @@
               <div class="container">
                 <div class="row justify-content-center">
                   <div class="col-sm-8 col-xxl-7">
-                    <h6 class="swiper-subtitle" data-caption-animate="fadeInRight" data-caption-delay="300">Bienvenido a Mares Motel</h6>
+                    <h2 class="swiper-subtitle" data-caption-animate="fadeInRight" data-caption-delay="300">Bienvenido a Mares Motel</h2>
                     <h2 class="oh swiper-title"><span class="d-block" data-caption-animate="slideInLeft" data-caption-delay="0">Somos cómplice de tus pasiones</span></h2><a class="button button-primary button-ujarak" href="#suite" data-caption-animate="fadeInRight" data-caption-delay="300">Mirar nuestras suite</a>
                   </div>
                 </div>
@@ -56,7 +59,7 @@
                         darles el mejor servicio con el lujo y confort que nos caracteriza, lo que
                         nos lleva a ser “Cómplice de tus pasiones”.</p>
                         <a class="button button-primary button-ujarak" href="#contacto">Entrar en contacto</a>
-                        <a class="button button-primary button-ujarak" target="_blank" href="https://wa.me/595971725725"><i class="fa fa-whatsapp"></i> Whatsapp</a>
+                        <a class="button button-primary button-ujarak" target="_blank" href="https://wa.me/595971725724"><i class="fa fa-whatsapp"></i> Whatsapp</a>
                     </div>
                 </div>
                 <div class="row row-30">
@@ -199,7 +202,7 @@
             </div>
             <div class="container isotope-wrap">
                 <div class="isotope-filters isotope-filters-horizontal">
-                    <button class="isotope-filters-toggle button button-md button-icon button-icon-right button-default-outline button-wapasha" data-custom-toggle="#isotope-1" data-custom-toggle-hide-on-blur="true" data-custom-toggle-disable-on-blur="true"><span class="icon fa fa-caret-down"></span>Filter</button>
+                    <button class="isotope-filters-toggle button button-md button-icon button-icon-right button-default-outline button-wapasha" data-custom-toggle="#isotope-1" data-custom-toggle-hide-on-blur="true" data-custom-toggle-disable-on-blur="true"><span class="icon fa fa-caret-down"></span>Filtro</button>
                     <ul class="isotope-filters-list" id="isotope-1">
                         <li><a class="active" href="#" data-isotope-filter="*" data-isotope-group="gallery">Todas las Suite</a></li>
                         <li><a href="#" data-isotope-filter="Type 1" data-isotope-group="gallery">Ejecutivas</a></li>
@@ -276,8 +279,8 @@
                             <div class="box-contacts-body">
                             <div class="box-contacts-icon fl-bigmug-line-cellphone55"></div>
                             <div class="box-contacts-decor"></div>
-                            <p class="box-contacts-link"><a href="tel:595971725725">+595 971 725 725</a></p>
-                            <p class="box-contacts-link"><a target="_blank" href="https://wa.me/595971725725">+595 971 725 725</a></p>
+                            <p class="box-contacts-link"><a href="tel:595971725724">+595 971 725 724</a></p>
+                            <p class="box-contacts-link"><a target="_blank" href="https://wa.me/595971725724">+595 971 725 724</a></p>
                             </div>
                         </article>
                     </div>
@@ -286,7 +289,7 @@
                             <div class="box-contacts-body">
                             <div class="box-contacts-icon fl-bigmug-line-up104"></div>
                             <div class="box-contacts-decor"></div>
-                            <p class="box-contacts-link"><a target="_blank" href="https://goo.gl/maps/4R9rwDMeKEa4FaW48">Calle Guarambará casi Avda. Acceso Sur, Ciudad de Ypané, Dpto. Central, Paraguay.</a></p>
+                            <p class="box-contacts-link"><a target="_blank" href="https://goo.gl/maps/4R9rwDMeKEa4FaW48">Calle Guarambaré casi Avda. Acceso Sur, Ciudad de Ypané, Dpto. Central, Paraguay.</a></p>
                             </div>
                         </article>
                     </div>
